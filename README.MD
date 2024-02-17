@@ -1,2 +1,2 @@
-Seni adalah Ledakan!
-<h2> Preview </h2> : https://marihothutagaol.github.io/Poly/
+<h2> Seni adalah Ledakan! </h2>
+Preview : https://marihothutagaol.github.io/Poly/
